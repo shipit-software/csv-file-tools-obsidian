@@ -9,4 +9,6 @@ Files: UTF-8 CSV/TSV, up to 5 MiB, 50,000 cells and 200 columns. External change
 Product: https://csvfile.tools
 Privacy: https://csvfile.tools/privacy
 
+Source code is private. This repository provides the compiled release, license, and third-party notices.
+
 Desktop only. Requires Obsidian 1.14.5 or later. Version 0.1.1.
