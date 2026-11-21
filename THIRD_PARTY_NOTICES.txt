@@ -1,5 +1,7 @@
 Third-party components bundled with CSV File Tools for Obsidian
 
+React DOM 19.2.4 is modified for this embedded editor: script elements and script preinitialization are rejected. Upstream source SHA-256 764ffa6adc2c9b02b4dc00f4a58ef13d050e7825898bd9e5dc808d3a3f9d4bb9. Other React DOM behavior and the MIT license are retained.
+
 @base-ui/react 1.8.0 — MIT
 MIT License
 
